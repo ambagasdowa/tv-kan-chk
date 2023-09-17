@@ -27,7 +27,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tv-kan-chk"
-version = "0.1.0"
+version = tvKanChk.VERSION
 description = "Command online TV tools"
 authors = [
   { name="Jesus Baizabal", email="baizabal.jesus@gmail.com" },

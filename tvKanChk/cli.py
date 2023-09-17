@@ -23,6 +23,15 @@ def read_user_cli_args():
         default="",
         help="read URLs from a file",
     )
+    parser.add_argument(
+        "-p",
+        "--pls",
+        metavar="FILE.m3u8",
+        nargs="+",
+        type=str,
+        default=[],
+        help="Check playlist status is online",
+    )
     return parser.parse_args()
 
 

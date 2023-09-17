@@ -1,23 +1,22 @@
-Installation
-============
+# Installation
 
-**my-package** supports Python >= 3.8.
+**tvKanChk** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**tvKanChk** is available [on PyPI](https://pypi.org/project/tvKanChk/). Just run
 
 ```bash
-pip install my-package
+pip install tvKanChk
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **tvKanChk** from source, first clone [the repository](https://github.com/ambagasdowa/tv-kan-chk):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/ambagasdowa/tv-kan-chk.git
+cd tv-kan-chk
 ```
 
 Then run
